@@ -2,6 +2,11 @@
     float: right;
   }*/
 
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.1em;
+    margin-right: -80px;
+}
 .icons{
     float: right;
     margin-top: -50px;
@@ -43,7 +48,7 @@ h2{
 
 #printers{
     float: right;
-    margin-top: -6px;
+    margin-top: -3px;
     color: #cacaca;
 
 }
@@ -61,7 +66,7 @@ h2{
     font-family: 'Patrick Hand', cursive;
     color: #666a42;
     height: 260px;
-    padding: 37px 0 0 60px;
+    padding: 30px 0 0 60px;
     margin: 40px 0;
 }
 
